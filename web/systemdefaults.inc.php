@@ -226,7 +226,7 @@ $mrbs_company = "Your Company";   // This line must always be uncommented ($mrbs
 // "default"        Default MRBS theme
 // "classic126"     Same colour scheme as MRBS 1.2.6
 
-$theme = "default";
+$theme = "IF";
 
 // Use the $custom_css_url to override the standard MRBS CSS.
 //$custom_css_url = 'css/custom.css';
